@@ -25,7 +25,11 @@ R-squared (R²): 0.8018725514411926
 
 ### Predictions result
 
-<img src="storage/plots/models/predictions.png" width="600px">
+<img src="storage/plots/model/predictions.png" width="600px">
+
+### Over fitting results
+
+<img src="storage/plots/model/is-overfitting-train-test-data.png" width="600px">
 
 ## Exploratory data analysis
 
